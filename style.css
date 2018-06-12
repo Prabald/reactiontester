@@ -7,14 +7,17 @@
                 position:relative;
                 
             }
-            h
+            h1
             {
-                text-shadow: 2px 2px lightblue;
-             font-family: sans-serif;  
+               font-size: 300%;
+                text-shadow: 0px 0px 4px aqua;
+             font-family:cursive;  
             }
             #text
             {
                font-family: monospace;
                 font-weight:bold;
-                font-size:150%
+                font-size:160%;
+                text-shadow: 0px 0px 4px red;
+
             }
